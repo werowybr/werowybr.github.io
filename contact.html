@@ -8,11 +8,11 @@
     <meta name="author" content="Weronika Wybranowska">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link href="https://fonts.googleapis.com/css?family=Archivo+Black" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/vendor/normalize.css">
     <link rel="stylesheet" href="css/grid.css">
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/contact.css ">
     <!--[if lt IE 9]>
     <script src="js/vendor/html5shim.js"></script>
     <![endif]-->
@@ -23,6 +23,63 @@
 <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade
     your browser</a> to improve your experience.</p>
 <![endif]-->
+
+<header class="grid__wrapper">
+    <div class="grid__container">
+        <div class="grid__row">
+            <div class="grid__column-1">
+                <img src="img/logo-black.png" alt="">
+            </div>
+            <div id="header-bars" class="grid__column-2 grid__offset-4">
+                <button id="header-bars-button"></button>
+            </div>
+        </div>
+    </div>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="offer.html">Offer</a></li>
+        <li><a href="contact.html">Contact</a></li>
+    </ul>
+</nav>
+
+<main class="grid__wrapper content">
+    <div class="grid__container">
+        <section class="grid__row">
+            <div class="grid__column-10 grid__offset-1">
+                <h1>Questions? Interested in our offer or maybe you’d like to
+                    be a part of our team?<br>Contact us!</h1>
+            </div>
+        </section>
+
+        <section class="grid__row contact-content">
+            <div class="grid__column-6" id="contact-content-left">
+                <h2><i class="fa fa-map-marker" aria-hidden="true"></i> Shake hands</h2>
+                <p>Veldstraat 140</p>
+                <p>9000 Gent</p>
+                <img src="img/Capture.PNG" alt="Map of veldstraat 140, 9000 Gent">
+            </div>
+            <div class="grid__column-6" id="contact-content-right">
+                <h2><i class="fa fa-envelope-o" aria-hidden="true"></i> Message us</h2>
+                <form action="">
+                    <label for="messageName">Your name</label>
+                    <input type="text" name="messageName" id="messageName" required>
+
+                    <label for="messageEmail">Your e-mail</label>
+                    <input type="email" name="messageEmail" id="messageEmail" required>
+
+                    <label for="messageContent">Your message</label>
+                    <input type="text" name="messageContent" id="messageContent" required>
+
+                    <input type="submit">
+                </form>
+            </div>
+        </section>
+    </div>
+</main>
 
 <footer class="grid__wrapper">
     <section class="grid__container">

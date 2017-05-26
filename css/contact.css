@@ -1,0 +1,30 @@
+
+
+main {
+    background: url('../img/pexels-photo-164531-white.jpg') no-repeat center;
+}
+
+main form *, main .contact-content p {
+    width: 100%;
+    margin: 10px 0;
+}
+
+main .contact-content {
+    margin-bottom: 30px;
+}
+
+main .contact-content > div {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+
+h1 {
+    margin: 15vh 3vw;
+    text-align: center;
+    font-family: 'Archivo Black', sans-serif;
+}
+
+h2 {
+    font-size: 3rem;
+}

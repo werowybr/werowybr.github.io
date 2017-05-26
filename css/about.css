@@ -1,0 +1,66 @@
+
+
+main.grid__wrapper {
+    text-align: center;
+    background: url('../img/pexels-photo.jpg') no-repeat center;
+    padding: 30px 0 60px;
+}
+
+main .grid__row {
+    margin: 20px 0;
+}
+
+main p {
+    font-size: 3rem;
+    font-family: 'Archivo Black', sans-serif;
+    padding: 10px;
+    line-height: 50px;
+}
+
+main section.team{
+    height: 350px;
+    padding: 10px 30px;
+}
+
+main section > div {
+    height: 100%;
+}
+
+#team-weronika {
+    background: url('../img/weronika.png') no-repeat center;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+}
+
+#team-jente {
+    background: url('../img/20170204_151240.jpg') no-repeat center;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+}
+
+#team-louise {
+    background: url('../img/louise.png') no-repeat center;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+}
+
+
+main section .team-info {
+    position: absolute;
+    bottom: 10px;
+    left: 30px;
+    width: calc(100% - 60px);
+    padding: 0;
+    background: rgba(0,0,0,0.4);
+    color: #fff;
+    opacity: 0;
+    transition: 0.3s all;
+}
+
+main section:hover > div > .team-info {
+    opacity: 1;
+}
+
+main section .team-info h2{
+    color: #e6e6e6;
+}

@@ -1,0 +1,93 @@
+/*
+
+    HOME
+
+*/
+
+header {
+    position: absolute;
+    z-index: 10;
+    top: 5vh;
+    left: 5vw;
+}
+
+header a img {
+    height: 120px;
+    width: auto;
+}
+
+main {
+    font-family: 'Archivo Black', sans-serif;
+}
+
+#intro {
+    height: 100vh;
+    background: url("../img/pexels-photo-grayscale.jpg") left no-repeat;
+    background-size: auto 100%;
+    padding: 0;
+}
+
+.home-image {
+    height: 50vh;
+    -webkit-background-size:cover;
+    background-size:cover;
+}
+
+.home-image-color {
+    height: 100%;
+    -webkit-background-size:cover;
+    background-size:cover;
+    opacity: 1;
+    transition: 0.4s all;
+    z-index: 10;
+}
+
+.home-image:hover .home-image-color{
+    opacity: 0;
+}
+
+.home-image:hover .home-overlay-content {
+    opacity: 1;
+}
+
+.home-overlay-content {
+    top: 50%;
+    position: absolute;
+    transition: 0.4s all;
+    opacity: 0;
+    width: 100%;
+    display: block;
+}
+
+.home-overlay-content p {
+    transform: translate(0, -35%);
+    margin: 0;
+    padding: 0 15%;
+    display:inline-block;
+    width: 100%;
+    font-size: 3rem;
+    text-align: center;
+    line-height: 60px;
+    color: #fff;
+    text-shadow: 2px 2px 16px #000000;
+}
+
+.home-overlay-content span {
+    font-size: 2rem;
+    font-weight: 300;
+    color: #8dc53e;
+    font-family: 'Lato', sans-serif;
+}
+
+#impress {
+    background-image: url("../img/pexels-photo-300122-grayscale.jpeg");
+}
+#impress-color {
+    background-image: url("../img/pexels-photo-300122.jpeg");
+}
+#questions {
+    background-image: url("../img/pexels-photo-164531.jpg");
+}
+#questions-color {
+    background-image: url("../img/pexels-photo-164531-color.jpg");
+}
