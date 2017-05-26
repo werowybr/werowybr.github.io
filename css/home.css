@@ -4,16 +4,23 @@
 
 */
 
+p {
+    margin: 0;
+    padding: 0;
+}
+
 header {
-    position: absolute;
-    z-index: 10;
-    top: 5vh;
-    left: 5vw;
+    height: 100%;
+    border-bottom: 1px solid #000;
 }
 
 header a img {
-    height: 120px;
+    height: 90px;
     width: auto;
+}
+
+header > nav {
+    display: none;
 }
 
 main {
@@ -21,73 +28,115 @@ main {
 }
 
 #intro {
-    height: 100vh;
-    background: url("../img/pexels-photo-grayscale.jpg") left no-repeat;
-    background-size: auto 100%;
-    padding: 0;
+    background: url("../img/pexels-photo-grayscale.jpg") 0 25% no-repeat;
 }
 
 .home-image {
-    height: 50vh;
-    -webkit-background-size:cover;
-    background-size:cover;
-}
-
-.home-image-color {
-    height: 100%;
-    -webkit-background-size:cover;
-    background-size:cover;
-    opacity: 1;
-    transition: 0.4s all;
-    z-index: 10;
-}
-
-.home-image:hover .home-image-color{
-    opacity: 0;
-}
-
-.home-image:hover .home-overlay-content {
-    opacity: 1;
+    height: 40vh;
+    -webkit-background-size: cover;
+    background-size: cover;
+    position: relative;
 }
 
 .home-overlay-content {
-    top: 50%;
-    position: absolute;
-    transition: 0.4s all;
-    opacity: 0;
     width: 100%;
     display: block;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
 }
 
 .home-overlay-content p {
-    transform: translate(0, -35%);
     margin: 0;
-    padding: 0 15%;
-    display:inline-block;
+    padding: 0 5%;
+    display: inline-block;
     width: 100%;
-    font-size: 3rem;
+    font-size: 1.5rem;
     text-align: center;
-    line-height: 60px;
+    line-height: 20px;
     color: #fff;
     text-shadow: 2px 2px 16px #000000;
 }
 
 .home-overlay-content span {
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: 300;
     color: #8dc53e;
     font-family: 'Lato', sans-serif;
+    display: block;
+    padding-top: 10px;
 }
-
 #impress {
-    background-image: url("../img/pexels-photo-300122-grayscale.jpeg");
-}
-#impress-color {
     background-image: url("../img/pexels-photo-300122.jpeg");
 }
 #questions {
-    background-image: url("../img/pexels-photo-164531.jpg");
-}
-#questions-color {
     background-image: url("../img/pexels-photo-164531-color.jpg");
 }
+
+@media (min-width: 1141px) {
+    header {
+        position: absolute;
+        z-index: 10;
+        top: 5vh;
+        left: 5vw;
+        border:none;
+    }
+    header a img {
+        height: 120px;
+        width: auto;
+    }
+    #intro {
+        height: 100vh;
+        background-size: auto 100%;
+        padding: 0;
+    }
+    .home-image {
+        height: 50vh;
+    }
+    .home-image-color {
+        height: 100%;
+        -webkit-background-size: cover;
+        background-size: cover;
+        opacity: 1;
+        transition: 0.4s all;
+        z-index: 10;
+    }
+    .home-image:hover .home-image-color {
+        opacity: 0;
+    }
+    .home-image:hover .home-overlay-content {
+        opacity: 1;
+    }
+    .home-overlay-content {
+        transition: 0.4s all;
+        opacity: 0;
+    }
+    .home-overlay-content-left {
+        opacity: 1;
+    }
+    .home-overlay-content p {
+        padding: 0 15%;
+        display: inline-block;
+        width: 100%;
+        line-height: 60px;
+        font-size: 3rem;
+    }
+    .home-overlay-content span {
+        font-size: 2rem;
+        color: #8dc53e;
+    }
+    #impress {
+        background-image: url("../img/pexels-photo-300122-grayscale.jpeg");
+    }
+    #impress-color {
+        background-image: url("../img/pexels-photo-300122.jpeg");
+    }
+    #questions {
+        background-image: url("../img/pexels-photo-164531.jpg");
+    }
+    #questions-color {
+        background-image: url("../img/pexels-photo-164531-color.jpg");
+    }
+}
+
