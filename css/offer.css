@@ -3,43 +3,29 @@
     Offer
 
 */
-
 main {
     font-family: 'Archivo Black', sans-serif;
 }
-
 #intro {
-    height: calc(100vh - 62px);
+    height: calc(100vh - 84px);
     background: url("../img/pexels-photo-300122-grayscale.jpg") left no-repeat;
     background-size: auto 100%;
     padding: 0;
+    position: relative;
 }
 
 .offer-image {
-    height: calc(50vh - 31px);
+    height: calc(50vh - 42px);
     -webkit-background-size: cover;
     background-size: cover;
 }
 
-.offer-image-color {
-    height: 100%;
-    -webkit-background-size: cover;
-    background-size: cover;
-    opacity: 1;
-    transition: 0.4s all;
-    z-index: 10;
-}
-
-.offer-overlay-content {
-    top: 50%;
-    position: absolute;
-    transition: 0.4s all;
-    opacity: 1;
-    width: 100%;
-    display: block;
-}
-
-.offer-overlay-content {
+#intro .offer-overlay-content {
+    text-decoration: none;
+    text-shadow: 2px 2px 16px #fdfdfd;
+    color: #000;
+    font-size: 2rem;
+    line-height: 30px;
     position: absolute;
     top: 50%;
     -webkit-transform: translate(0, -50%);
@@ -47,19 +33,17 @@ main {
     -ms-transform: translate(0, -50%);
     -o-transform: translate(0, -50%);
     transform: translate(0, -50%);
-    text-decoration: none;
-    line-height: 60px;
     text-align: center;
-    text-shadow: 2px 2px 16px #fdfdfd;
-    padding: 0 15%;
-    color: #000;
-    font-size: 3rem;
+    padding: 10%;
 }
 
 .offer-overlay-content h1 {
     margin: 0;
+    padding: 10px;
     display: inline-block;
     width: 100%;
+    font-size: 2.5rem;
+    text-align: center;
 }
 
 .offer-overlay-content h2 {
@@ -69,13 +53,8 @@ main {
     text-shadow: 2px 2px 16px #000;
     font-family: 'Lato', sans-serif;
     font-weight: 300;
-    font-size: 2rem;
-}
-
-.offer-overlay-content-details {
-    color: #8dc53e;
-    font-size: 6rem;
-    text-shadow: 2px 2px 16px #000;
+    font-size: 1.8rem;
+    text-align: center;
 }
 
 #design {
@@ -85,70 +64,124 @@ main {
     background-image: url("../img/development foto .jpg");
 }
 
-.offer-content-text {
-    opacity: 0;
+.offer-overlay-content-details, .offer-content-text {
+    color: #fff;
+    text-shadow: 2px 2px 16px #000;
     text-align: center;
-    position: relative;
-    z-index: 200;
-    background: #fff;
-    height: 100%;
-    width: 100%;
-    padding: 0;
-    margin: 0;
-    transition: 0.3s all;
 }
 
-.offer-content-text p {
-    font-family: 'Lato', sans-serif;
-    font-size: 2rem;
-    padding: 0;
-    margin: 0;
-    width: 70%;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    -moz-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    -o-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+@media (min-width: 1141px) {
+    #intro {
+        height: calc(100vh - 62px);
+    }
+    .offer-image {
+        height: calc(50vh - 31px);
+    }
+
+    .offer-image-color {
+        height: 100%;
+        -webkit-background-size: cover;
+        background-size: cover;
+        opacity: 1;
+        transition: 0.4s all;
+        z-index: 10;
+    }
+    .offer-overlay-content {
+        top: 50%;
+        position: absolute;
+        transition: 0.4s all;
+        opacity: 1;
+        width: 100%;
+        display: block;
+        -webkit-transform: translate(0, -50%);
+        -moz-transform: translate(0, -50%);
+        -ms-transform: translate(0, -50%);
+        -o-transform: translate(0, -50%);
+        transform: translate(0, -50%);
+        text-align: center;
+        font-size: 3rem;
+    }
+
+    .offer-overlay-content-details {
+        color: #8dc53e;
+        font-size: 6rem;
+        text-shadow: 2px 2px 16px #000;
+    }
+
+    .offer-overlay-content h1 {
+        margin: 0;
+        display: inline-block;
+        width: 100%;
+        font-size: 3.5rem;
+        padding: 10%;
+    }
+
+    .offer-content-text {
+        color: #000;
+        text-shadow: 2px 2px 16px #fff;
+        opacity: 0;
+        text-align: center;
+        position: relative;
+        z-index: 200;
+        background: #fff;
+        height: 100%;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        transition: 0.3s all;
+    }
+
+    .offer-content-text p {
+        font-family: 'Lato', sans-serif;
+        font-size: 2rem;
+        padding: 0;
+        margin: 0;
+        width: 70%;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        -moz-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        -o-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    }
+
+    #development-text {
+        -webkit-transform: translate(100%, -100%);
+        -moz-transform: translate(100%, -100%);
+        -ms-transform: translate(100%, -100%);
+        -o-transform: translate(100%, -100%);
+        transform: translate(100%, -100%);
+
+    }
+
+    #design-text {
+        -webkit-transform: translate(100%, 100%);
+        -moz-transform: translate(100%, 100%);
+        -ms-transform: translate(100%, 100%);
+        -o-transform: translate(100%, 100%);
+        transform: translate(100%, 100%);
+
+    }
+
+
+    #design:hover #design-text{
+        opacity: 1;
+        -webkit-transform: translate(0, 100%);
+        -moz-transform: translate(0, 100%);
+        -ms-transform: translate(0, 100%);
+        -o-transform: translate(0, 100%);
+        transform: translate(0, 100%);
+    }
+
+    #development:hover #development-text{
+        opacity: 1;
+        -webkit-transform: translate(0%, -100%);
+        -moz-transform: translate(0%, -100%);
+        -ms-transform: translate(0%, -100%);
+        -o-transform: translate(0%, -100%);
+        transform: translate(0%, -100%);
+    }
+
 }
-
-#development-text {
-    -webkit-transform: translate(100%, -100%);
-    -moz-transform: translate(100%, -100%);
-    -ms-transform: translate(100%, -100%);
-    -o-transform: translate(100%, -100%);
-    transform: translate(100%, -100%);
-
-}
-
-#design-text {
-    -webkit-transform: translate(100%, 100%);
-    -moz-transform: translate(100%, 100%);
-    -ms-transform: translate(100%, 100%);
-    -o-transform: translate(100%, 100%);
-    transform: translate(100%, 100%);
-
-}
-
-
-#design:hover #design-text{
-    opacity: 1;
-    -webkit-transform: translate(0, 100%);
-    -moz-transform: translate(0, 100%);
-    -ms-transform: translate(0, 100%);
-    -o-transform: translate(0, 100%);
-    transform: translate(0, 100%);
-}
-
-#development:hover #development-text{
-    opacity: 1;
-    -webkit-transform: translate(0%, -100%);
-    -moz-transform: translate(0%, -100%);
-    -ms-transform: translate(0%, -100%);
-    -o-transform: translate(0%, -100%);
-    transform: translate(0%, -100%);
-}
-
-

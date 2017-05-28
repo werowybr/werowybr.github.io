@@ -1,8 +1,8 @@
 
-
 main {
-    background: url('../img/pexels-photo-164531-white.jpg') no-repeat center;
+    text-align: center;
 }
+
 
 main form *, main .contact-content p {
     width: 100%;
@@ -13,12 +13,6 @@ main .contact-content {
     margin-bottom: 30px;
 }
 
-main .contact-content > div {
-    padding-left: 10%;
-    padding-right: 10%;
-}
-
-
 h1 {
     margin: 15vh 3vw;
     text-align: center;
@@ -27,4 +21,62 @@ h1 {
 
 h2 {
     font-size: 3rem;
+}
+
+#socialmedia-menu {
+    display: none;
+}
+
+input[type=submit] {
+    background: none;
+    border: none;
+    outline: none;
+    color: #8dc53e;
+}
+
+@media (min-width: 1141px) {
+    main {
+        text-align: left;
+        background: url('../img/pexels-photo-164531-white.jpg') no-repeat center;
+    }
+
+    main .contact-content > div {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    #socialmedia-menu {
+        display: block;
+    }
+
+    .icons-menu {
+        margin: 0;
+        padding: 0;
+        text-align: left;
+    }
+
+    .icons-menu li{
+        list-style: none;
+        display: inline-block;
+        padding: 0 10px;
+
+    }
+
+    .icons-menu li a {
+        font-size: 1.5rem;
+        text-decoration: none;
+        color: #000000;
+        line-height: 30px;
+        vertical-align: top;
+        width:100%;
+    }
+
+    .icons-menu li a:hover {
+        color: #8dc53e;
+    }
+
+    .icons-menu li a {
+        font-size: 2.5rem;
+    }
+
 }

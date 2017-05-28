@@ -6,8 +6,8 @@ main, main section {
 }
 
 .portfolio-image {
-    width: 25%;
-    height: 25vw;
+    width: 50%;
+    height: 50vw;
     display: inline-block;
     padding: 0;
     margin: 0;
@@ -41,3 +41,13 @@ main, main section {
 #timepot{background-image: url('../img/portfolio/timepot.jpg')}
 #colortheory{background-image: url('../img/portfolio/colortheory.jpg')}
 #kitchensubereats{background-image: url('../img/portfolio/kitchensubereats.jpg')}
+
+@media (min-width: 1141px) {
+    .portfolio-image {
+        width: 25%;
+        height: 25vw;
+        display: inline-block;
+        padding: 0;
+        margin: 0;
+    }
+}

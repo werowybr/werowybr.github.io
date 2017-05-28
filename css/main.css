@@ -65,34 +65,54 @@ h1 {
 
 */
 
+header.grid__wrapper {
+    height: 84px;
+    padding-top: 12px;
+}
+
+header div {
+    height: 100%;
+}
+
+header img {
+    height: 60px;
+}
+
+header #header-bars button {
+    background: url('../img/bars.png') center no-repeat;
+    outline: none;
+    border: none;
+    height: 40px;
+    width: 40px;
+}
+
+header #header-bars {
+    position: absolute;
+    top: 17px;
+    right: 10px;
+}
 
 @media (min-width: 1141px) {
-    header {
-        height: 63px;
+    header.grid__wrapper {
+        height: 64px;
+        padding-top: 0;
     }
 
-    header div {
-        height: 100%;
-    }
-
-    header img {
-        height: 60px;
-    }
 
     header #header-bars button {
-        height: 40px;
-        width: 40px;
         background: url('../img/bars.png') center no-repeat;
-        border: none;
         position: absolute;
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
-        outline: none;
     }
+
 
     header #header-bars {
         height: 100%;
+        position: relative;
+        top: 0;
+        right: 0;
     }
 }
 
@@ -102,37 +122,42 @@ h1 {
 
 */
 
+body > nav {
+    z-index: 100;
+    position: absolute;
+    top: 84px;
+    right: 0;
+    display: none;
+    font-size: 2.5rem;
+    background-color: rgba(235,235,235, 0.96);
+    width: 100%;
+}
+
+body > nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 100%;
+}
+
+body > nav ul li a {
+    text-decoration: none;
+    color: #000;
+    width: 100%;
+    padding: 20px;
+    display: block;
+    font-size: 2rem;
+    text-align: center;
+}
+
+
 @media (min-width: 1141px) {
 
     body > nav {
-        z-index: 100;
-        position: absolute;
-        display: none;
-        width: 100%;
-        font-size: 2.5rem;
-        background-color: rgba(235,235,235, 0.96);
-    }
 
-    body > nav ul {
-        margin: 0;
-        padding: 0;
-        list-style: none;
-        width: 100%;
-    }
-
-    body > nav ul li {
-        width: 100%;
-        text-align: center;
-
-    }
-
-    body > nav ul li a {
-        text-decoration: none;
-        color: #000;
-        width: 100%;
-        padding: 20px;
-        display: block;
-        font-size: 2rem;
+        left: 0;
+        height: auto;
+        top: 64px;
     }
 
     body > nav ul li a:hover {

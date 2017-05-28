@@ -1,25 +1,26 @@
 
-
 main.grid__wrapper {
     text-align: center;
     background: url('../img/pexels-photo.jpg') no-repeat center;
-    padding: 30px 0 60px;
+    -webkit-background-size: auto 100%;
+    background-size: auto 100%;
+    padding: 10px 0 10px;
 }
-
 main .grid__row {
     margin: 20px 0;
 }
 
 main p {
-    font-size: 3rem;
+    font-size: 2rem;
     font-family: 'Archivo Black', sans-serif;
     padding: 10px;
-    line-height: 50px;
+    line-height: 30px;
 }
 
 main section.team{
     height: 350px;
-    padding: 10px 30px;
+    padding: 0;
+    margin: 10px auto;
 }
 
 main section > div {
@@ -30,37 +31,57 @@ main section > div {
     background: url('../img/weronika.png') no-repeat center;
     -webkit-background-size: 100%;
     background-size: 100%;
+    position: relative;
 }
 
 #team-jente {
     background: url('../img/20170204_151240.jpg') no-repeat center;
     -webkit-background-size: 100%;
     background-size: 100%;
+    position: relative;
 }
 
 #team-louise {
     background: url('../img/louise.png') no-repeat center;
     -webkit-background-size: 100%;
     background-size: 100%;
+    position: relative;
 }
-
 
 main section .team-info {
-    position: absolute;
-    bottom: 10px;
-    left: 30px;
-    width: calc(100% - 60px);
-    padding: 0;
     background: rgba(0,0,0,0.4);
     color: #fff;
-    opacity: 0;
-    transition: 0.3s all;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+main section .team-info h1, main section .team-info h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
-main section:hover > div > .team-info {
-    opacity: 1;
-}
+@media (min-width: 1141px) {
 
-main section .team-info h2{
-    color: #e6e6e6;
+    main p {
+        font-size: 3rem;
+        line-height: 50px;
+    }
+    main section.team{
+        height: 350px;
+        padding: 10px 30px;
+    }
+
+    main section .team-info {
+        padding: 0;
+        opacity: 0;
+        transition: 0.3s all;
+    }
+
+    main section:hover > div > .team-info {
+        opacity: 1;
+    }
+
+    main section .team-info h2{
+        color: #e6e6e6;
+    }
 }

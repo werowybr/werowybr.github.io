@@ -5,26 +5,35 @@
     box-sizing: border-box;
  }
 
+.grid__wrapper {
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+.grid__container {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.grid__row {
+    display: block;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
 
 @media (min-width: 1141px) {
-    .grid__wrapper {
-        display: block;
-        margin: 0;
-        padding: 0;
-    }
 
     .grid__container {
         display: block;
         width: 1140px;
         margin: 0 auto;
         padding: 0 12px;
-    }
-
-    .grid__row {
-        display: block;
-        margin: 0;
-        padding: 0;
-        overflow: hidden;
     }
 
     .grid__wrapper:after,

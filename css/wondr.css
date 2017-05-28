@@ -1,0 +1,28 @@
+main {
+    height: calc(100vh - 84px);
+    background: #ebebeb url('../img/portfolio/wondr.jpg') center no-repeat;
+    -webkit-background-size: auto 50%;
+    background-size: auto 50%;
+}
+
+main a {
+    position: absolute;
+    bottom: 10%;
+    text-align: center;
+    text-decoration: none;
+    color: #8dc53e;
+    font-size: 2rem;
+    width: 100%;
+}
+
+@media (min-width: 1141px) {
+    main {
+        -webkit-background-size: auto;
+        background-size: auto ;
+    }
+
+    main a {
+        font-size: 3rem;
+    }
+
+}
