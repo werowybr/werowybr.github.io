@@ -68,7 +68,7 @@ main {
     padding-top: 10px;
 }
 #impress {
-    background-image: url("../img/pexels-photo-300122.jpeg");
+    background-image: url("../img/pexels-photo-300122.jpg");
 }
 #questions {
     background-image: url("../img/pexels-photo-164531-color.jpg");
@@ -127,10 +127,10 @@ main {
         color: #8dc53e;
     }
     #impress {
-        background-image: url("../img/pexels-photo-300122-grayscale.jpeg");
+        background-image: url("../img/pexels-photo-300122-grayscale.jpg");
     }
     #impress-color {
-        background-image: url("../img/pexels-photo-300122.jpeg");
+        background-image: url("../img/pexels-photo-300122.jpg");
     }
     #questions {
         background-image: url("../img/pexels-photo-164531.jpg");

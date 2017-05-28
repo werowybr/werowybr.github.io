@@ -38,6 +38,7 @@ input[type=submit] {
     main {
         text-align: left;
         background: url('../img/pexels-photo-164531-white.jpg') no-repeat center;
+        background-size: auto 100%;
     }
 
     main .contact-content > div {
@@ -45,24 +46,24 @@ input[type=submit] {
         padding-right: 10%;
     }
 
-    #socialmedia-menu {
+    main #socialmedia-menu {
         display: block;
     }
 
-    .icons-menu {
+    main .icons-menu {
         margin: 0;
         padding: 0;
         text-align: left;
     }
 
-    .icons-menu li{
+    main .icons-menu li{
         list-style: none;
         display: inline-block;
         padding: 0 10px;
 
     }
 
-    .icons-menu li a {
+    main .icons-menu li a {
         font-size: 1.5rem;
         text-decoration: none;
         color: #000000;
@@ -71,11 +72,11 @@ input[type=submit] {
         width:100%;
     }
 
-    .icons-menu li a:hover {
+    main .icons-menu li a:hover {
         color: #8dc53e;
     }
 
-    .icons-menu li a {
+    main .icons-menu li a {
         font-size: 2.5rem;
     }
 

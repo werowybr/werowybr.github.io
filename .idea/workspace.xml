@@ -2,18 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f82aaa6-da12-4d9a-9e62-10fc9dca99c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/wondr.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wondr.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Capture.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hand-laptop-notebook-technology.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/louise.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pexels-photo-164531.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pexels-photo-196644.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pexels-photo-270360.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pexels-photo-300122-grayscale.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pexels-photo-300122.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pp.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/weronika.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/20170204_151240.jpg" afterPath="$PROJECT_DIR$/img/20170204_151240.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/pexels-photo-164531-color.jpg" afterPath="$PROJECT_DIR$/img/pexels-photo-164531-color.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/pexels-photo-164531-white.jpg" afterPath="$PROJECT_DIR$/img/pexels-photo-164531-white.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/pexels-photo-164531.jpg" afterPath="$PROJECT_DIR$/img/pexels-photo-164531.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/pexels-photo-300122-grayscale.jpg" afterPath="$PROJECT_DIR$/img/pexels-photo-300122-grayscale.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/pexels-photo-grayscale.jpg" afterPath="$PROJECT_DIR$/img/pexels-photo-grayscale.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/pexels-photo.jpg" afterPath="$PROJECT_DIR$/img/pexels-photo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/colortheory.jpg" afterPath="$PROJECT_DIR$/img/portfolio/colortheory.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/creativewallonia.jpg" afterPath="$PROJECT_DIR$/img/portfolio/creativewallonia.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/kitchensubereats.jpg" afterPath="$PROJECT_DIR$/img/portfolio/kitchensubereats.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/knittingwool.jpg" afterPath="$PROJECT_DIR$/img/portfolio/knittingwool.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/linealight.jpg" afterPath="$PROJECT_DIR$/img/portfolio/linealight.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/rimmel.jpg" afterPath="$PROJECT_DIR$/img/portfolio/rimmel.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/tattoos.jpg" afterPath="$PROJECT_DIR$/img/portfolio/tattoos.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/timepot.jpg" afterPath="$PROJECT_DIR$/img/portfolio/timepot.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/tomerlerner.jpg" afterPath="$PROJECT_DIR$/img/portfolio/tomerlerner.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/wondr.jpg" afterPath="$PROJECT_DIR$/img/portfolio/wondr.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/xofestival.jpg" afterPath="$PROJECT_DIR$/img/portfolio/xofestival.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/about.css" afterPath="$PROJECT_DIR$/css/about.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/contact.css" afterPath="$PROJECT_DIR$/css/contact.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/grid.css" afterPath="$PROJECT_DIR$/css/grid.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/home.css" afterPath="$PROJECT_DIR$/css/home.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/offer.css" afterPath="$PROJECT_DIR$/css/offer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/portfolio.css" afterPath="$PROJECT_DIR$/css/portfolio.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/portfolio.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/wondr.css" afterPath="$PROJECT_DIR$/css/wondr.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/robots.txt" afterPath="$PROJECT_DIR$/robots.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wondr.html" afterPath="$PROJECT_DIR$/wondr.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/pages/about.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/pages/contact.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/offer.html" afterPath="$PROJECT_DIR$/pages/offer.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/pages/portfolio.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,87 +58,161 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.43327126">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="wondr.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/wondr.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="771">
-                  <caret line="49" column="59" lean-forward="false" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
-                  <folding>
-                    <marker date="1495981235716" expanded="true" signature="878:1031" ph="..." />
-                    <marker date="1495981235716" expanded="true" signature="971:999" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css/main.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="176">
-                  <caret line="89" column="23" lean-forward="false" selection-start-line="231" selection-start-column="16" selection-end-line="231" selection-end-column="22" />
-                  <folding>
-                    <element signature="e#2807#2839#0" expanded="false" />
-                    <element signature="e#2854#2928#0" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="style-tile-a.html" pinned="false" current-in-tab="true">
-            <entry file="file://$USER_HOME$/Desktop/style-tiles/style-tile-a.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="286">
-                  <caret line="48" column="18" lean-forward="false" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="offer.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css/offer.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="198">
-                  <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="28" />
-                  <folding>
-                    <element signature="e#1524#1567#0" expanded="false" />
-                    <element signature="e#1585#1627#0" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="wondr.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css/wondr.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="308">
-                  <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="241" column="22" lean-forward="false" selection-start-line="241" selection-start-column="20" selection-end-line="241" selection-end-column="22" />
+              <folding>
+                <element signature="e#2807#2839#0" expanded="false" />
+                <element signature="e#2854#2928#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="92" column="56" lean-forward="false" selection-start-line="92" selection-start-column="53" selection-end-line="92" selection-end-column="56" />
+              <folding>
+                <marker date="1495983457301" expanded="true" signature="896:1049" ph="..." />
+                <marker date="1495983457301" expanded="true" signature="989:1017" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/home.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="129" column="19" lean-forward="false" selection-start-line="129" selection-start-column="19" selection-end-line="129" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/about.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/contact.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="40" column="35" lean-forward="false" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="offer.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/offer.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="172" column="17" lean-forward="false" selection-start-line="172" selection-start-column="12" selection-end-line="172" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wondr.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/wondr.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/portfolio.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="20" />
+              <folding>
+                <marker date="1495983457390" expanded="true" signature="900:1053" ph="..." />
+                <marker date="1495983457390" expanded="true" signature="993:1021" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="offer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/offer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="20" />
+              <folding>
+                <marker date="1495983457451" expanded="true" signature="896:1049" ph="..." />
+                <marker date="1495983457451" expanded="true" signature="989:1017" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1495983457036" expanded="true" signature="899:1052" ph="..." />
+                <marker date="1495983457036" expanded="true" signature="992:1020" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>home</find>
-      <find>top</find>
+      <find>loui</find>
+      <find>louis</find>
+      <find>louise</find>
+      <find>louise.</find>
+      <find>louise.p</find>
+      <find>louise.pn</find>
+      <find>louise.png</find>
+      <find>pexels-photo-300122</find>
+      <find>ri</find>
+      <find>rim</find>
+      <find>rimm</find>
+      <find>rimmel</find>
+      <find>de</find>
+      <find>devel</find>
+      <find>develo</find>
+      <find>develop</find>
+      <find>developm</find>
+      <find>developme</find>
+      <find>development</find>
+      <find>development-</find>
+      <find>development-te</find>
+      <find>development-tex</find>
+      <find>development-text</find>
+      <find>offer-content-text</find>
+      <find>.</find>
+      <find>ca</find>
+      <find>cal</find>
+      <find>calc</find>
+      <find>.5</find>
       <find>hover</find>
-      <find>grid__column-3</find>
-      <find>small</find>
-      <find>verzenden</find>
-      <find>left</find>
-      <find>mogelijk</find>
     </findStrings>
+    <dirStrings>
+      <dir>D:\git\nika\werowybr.github.io</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -119,21 +227,29 @@
       <list>
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/css/portfoli.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/home.css" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/css/grid.css" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/css/portfolio.css" />
         <option value="$PROJECT_DIR$/contact.html" />
-        <option value="$PROJECT_DIR$/css/contact.css" />
-        <option value="$PROJECT_DIR$/css/about.css" />
         <option value="$PROJECT_DIR$/offer.html" />
-        <option value="$PROJECT_DIR$/css/offer.css" />
         <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/wondr.html" />
-        <option value="$PROJECT_DIR$/css/wondr.css" />
+        <option value="$USER_HOME$/Desktop/style-tiles/_css/style-tile-a.css" />
+        <option value="$PROJECT_DIR$/css/offer.css" />
         <option value="$USER_HOME$/Desktop/style-tiles/style-tile-a.html" />
+        <option value="$USER_HOME$/Desktop/style-tiles/_css/main.css" />
+        <option value="$PROJECT_DIR$/robots.txt" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/pages/about.html" />
+        <option value="$PROJECT_DIR$/pages/portfolio.html" />
+        <option value="$PROJECT_DIR$/pages/offer.html" />
+        <option value="$PROJECT_DIR$/pages/contact.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/css/home.css" />
+        <option value="$PROJECT_DIR$/css/about.css" />
+        <option value="$PROJECT_DIR$/css/wondr.css" />
+        <option value="$PROJECT_DIR$/css/contact.css" />
       </list>
     </option>
   </component>
@@ -190,20 +306,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="werowybr.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="werowybr.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -219,6 +321,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git\nika\werowybr.github.io\pages" />
       <recent name="D:\git\nika\werowybr.github.io\img" />
     </key>
   </component>
@@ -658,12 +761,12 @@
       <updated>1495716629992</updated>
       <workItem from="1495716631596" duration="29640000" />
       <workItem from="1495871140603" duration="1575000" />
-      <workItem from="1495965502447" duration="10651000" />
+      <workItem from="1495965502447" duration="14004000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41866000" />
+    <option name="totallyTimeSpent" value="45219000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="0" />
@@ -685,6 +788,7 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1444563" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -696,7 +800,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -764,21 +867,19 @@
         <state relative-caret-position="1672">
           <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="28" />
           <folding>
-            <element signature="e#1244#1358#0" expanded="false" />
-            <element signature="e#1376#1427#0" expanded="false" />
-            <element signature="e#1439#1525#0" expanded="false" />
-            <element signature="e#1542#1571#0" expanded="false" />
-            <element signature="e#1594#1766#0" expanded="false" />
-            <element signature="e#1807#1834#0" expanded="false" />
-            <element signature="e#1879#1906#0" expanded="false" />
-            <element signature="e#1933#1990#0" expanded="false" />
-            <element signature="e#2022#2049#0" expanded="false" />
-            <element signature="e#2078#2213#0" expanded="false" />
-            <element signature="e#2245#2301#0" expanded="false" />
-            <element signature="e#2315#2398#0" expanded="false" />
-            <element signature="e#2418#2491#0" expanded="false" />
-            <element signature="e#2507#2579#0" expanded="false" />
-            <element signature="e#2601#2679#0" expanded="false" />
+            <element signature="e#1243#1357#0" expanded="false" />
+            <element signature="e#1375#1426#0" expanded="false" />
+            <element signature="e#1438#1524#0" expanded="false" />
+            <element signature="e#1541#1570#0" expanded="false" />
+            <element signature="e#1593#1765#0" expanded="false" />
+            <element signature="e#1806#1833#0" expanded="false" />
+            <element signature="e#1878#1905#0" expanded="false" />
+            <element signature="e#1932#1989#0" expanded="false" />
+            <element signature="e#2021#2048#0" expanded="false" />
+            <element signature="e#2314#2396#0" expanded="false" />
+            <element signature="e#2416#2488#0" expanded="false" />
+            <element signature="e#2504#2576#0" expanded="false" />
+            <element signature="e#2598#2676#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -796,8 +897,8 @@
         <state relative-caret-position="1430">
           <caret line="65" column="5" lean-forward="false" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
           <folding>
-            <element signature="e#1278#1337#0" expanded="false" />
-            <element signature="e#1359#1417#0" expanded="false" />
+            <element signature="e#1233#1292#0" expanded="false" />
+            <element signature="e#1314#1372#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -815,41 +916,41 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1495812510432" expanded="true" signature="877:1030" ph="..." />
-            <marker date="1495812510432" expanded="true" signature="970:998" ph="..." />
+            <marker date="1495983195960" expanded="true" signature="877:1030" ph="..." />
+            <marker date="1495983195960" expanded="true" signature="970:998" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
+    <entry file="file://$PROJECT_DIR$/pages/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="30" column="39" lean-forward="false" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
           <folding>
-            <marker date="1495787342694" expanded="true" signature="878:1031" ph="..." />
-            <marker date="1495787342694" expanded="true" signature="971:999" ph="..." />
+            <marker date="1495983457301" expanded="true" signature="896:1049" ph="..." />
+            <marker date="1495983457301" expanded="true" signature="989:1017" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/offer.html">
+    <entry file="file://$PROJECT_DIR$/pages/offer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
           <caret line="36" column="10" lean-forward="false" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
           <folding>
-            <marker date="1495980448895" expanded="true" signature="878:1031" ph="..." />
-            <marker date="1495980448895" expanded="true" signature="971:999" ph="..." />
+            <marker date="1495983457451" expanded="true" signature="896:1049" ph="..." />
+            <marker date="1495983457451" expanded="true" signature="989:1017" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.html">
+    <entry file="file://$PROJECT_DIR$/pages/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1100">
           <caret line="50" column="80" lean-forward="false" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="80" />
           <folding>
-            <marker date="1495980849627" expanded="true" signature="882:1035" ph="..." />
-            <marker date="1495980849627" expanded="true" signature="975:1003" ph="..." />
+            <marker date="1495983457390" expanded="true" signature="900:1053" ph="..." />
+            <marker date="1495983457390" expanded="true" signature="993:1021" ph="..." />
           </folding>
         </state>
       </provider>
@@ -878,21 +979,19 @@
         <state relative-caret-position="1892">
           <caret line="117" column="28" lean-forward="false" selection-start-line="117" selection-start-column="28" selection-end-line="117" selection-end-column="28" />
           <folding>
-            <element signature="e#1244#1358#0" expanded="false" />
-            <element signature="e#1376#1427#0" expanded="false" />
-            <element signature="e#1439#1525#0" expanded="false" />
-            <element signature="e#1542#1571#0" expanded="false" />
-            <element signature="e#1594#1766#0" expanded="false" />
-            <element signature="e#1807#1834#0" expanded="false" />
-            <element signature="e#1879#1906#0" expanded="false" />
-            <element signature="e#1933#1990#0" expanded="false" />
-            <element signature="e#2022#2049#0" expanded="false" />
-            <element signature="e#2078#2213#0" expanded="false" />
-            <element signature="e#2245#2301#0" expanded="false" />
-            <element signature="e#2315#2398#0" expanded="false" />
-            <element signature="e#2418#2491#0" expanded="false" />
-            <element signature="e#2507#2579#0" expanded="false" />
-            <element signature="e#2601#2679#0" expanded="false" />
+            <element signature="e#1243#1357#0" expanded="false" />
+            <element signature="e#1375#1426#0" expanded="false" />
+            <element signature="e#1438#1524#0" expanded="false" />
+            <element signature="e#1541#1570#0" expanded="false" />
+            <element signature="e#1593#1765#0" expanded="false" />
+            <element signature="e#1806#1833#0" expanded="false" />
+            <element signature="e#1878#1905#0" expanded="false" />
+            <element signature="e#1932#1989#0" expanded="false" />
+            <element signature="e#2021#2048#0" expanded="false" />
+            <element signature="e#2314#2396#0" expanded="false" />
+            <element signature="e#2416#2488#0" expanded="false" />
+            <element signature="e#2504#2576#0" expanded="false" />
+            <element signature="e#2598#2676#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -918,30 +1017,30 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1495812510432" expanded="true" signature="877:1030" ph="..." />
-            <marker date="1495812510432" expanded="true" signature="970:998" ph="..." />
+            <marker date="1495983195960" expanded="true" signature="877:1030" ph="..." />
+            <marker date="1495983195960" expanded="true" signature="970:998" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/offer.html">
+    <entry file="file://$PROJECT_DIR$/pages/offer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
           <caret line="36" column="10" lean-forward="true" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
           <folding>
-            <marker date="1495980448895" expanded="true" signature="878:1031" ph="..." />
-            <marker date="1495980448895" expanded="true" signature="971:999" ph="..." />
+            <marker date="1495983457451" expanded="true" signature="896:1049" ph="..." />
+            <marker date="1495983457451" expanded="true" signature="989:1017" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.html">
+    <entry file="file://$PROJECT_DIR$/pages/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1100">
           <caret line="50" column="80" lean-forward="false" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="80" />
           <folding>
-            <marker date="1495980849627" expanded="true" signature="882:1035" ph="..." />
-            <marker date="1495980849627" expanded="true" signature="975:1003" ph="..." />
+            <marker date="1495983457390" expanded="true" signature="900:1053" ph="..." />
+            <marker date="1495983457390" expanded="true" signature="993:1021" ph="..." />
           </folding>
         </state>
       </provider>
@@ -949,17 +1048,6 @@
     <entry file="file://$PROJECT_DIR$/img/pp.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44">
-          <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-          <folding>
-            <marker date="1495812510432" expanded="true" signature="877:1030" ph="..." />
-            <marker date="1495812510432" expanded="true" signature="970:998" ph="..." />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
@@ -986,98 +1074,154 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
+    <entry file="file://$PROJECT_DIR$/wondr.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-          <folding>
-            <marker date="1495787342694" expanded="true" signature="878:1031" ph="..." />
-            <marker date="1495787342694" expanded="true" signature="971:999" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="619">
-          <caret line="87" column="72" lean-forward="false" selection-start-line="87" selection-start-column="72" selection-end-line="87" selection-end-column="72" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1495978134517" expanded="true" signature="881:1034" ph="..." />
-            <marker date="1495978134517" expanded="true" signature="974:1002" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/contact.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        <state relative-caret-position="771">
+          <caret line="49" column="59" lean-forward="false" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.html">
+    <entry file="file://$USER_HOME$/Desktop/style-tiles/_css/style-tile-a.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="50" column="57" lean-forward="false" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="57" />
+        <state relative-caret-position="-2616">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/style-tiles/style-tile-a.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/style-tiles/_css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1078">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="12" />
           <folding>
-            <marker date="1495980849627" expanded="true" signature="882:1035" ph="..." />
-            <marker date="1495980849627" expanded="true" signature="975:1003" ph="..." />
+            <marker date="1495983195960" expanded="true" signature="877:1030" ph="..." />
+            <marker date="1495983195960" expanded="true" signature="970:998" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/offer.html">
+    <entry file="file://$PROJECT_DIR$/pages/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="80" column="20" lean-forward="true" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="20" />
+        <state relative-caret-position="182">
+          <caret line="92" column="56" lean-forward="false" selection-start-line="92" selection-start-column="53" selection-end-line="92" selection-end-column="56" />
           <folding>
-            <marker date="1495980448895" expanded="true" signature="878:1031" ph="..." />
-            <marker date="1495980448895" expanded="true" signature="971:999" ph="..." />
+            <marker date="1495983457301" expanded="true" signature="896:1049" ph="..." />
+            <marker date="1495983457301" expanded="true" signature="989:1017" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="20" />
+          <folding>
+            <marker date="1495983457390" expanded="true" signature="900:1053" ph="..." />
+            <marker date="1495983457390" expanded="true" signature="993:1021" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/offer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="20" />
+          <folding>
+            <marker date="1495983457451" expanded="true" signature="896:1049" ph="..." />
+            <marker date="1495983457451" expanded="true" signature="989:1017" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3630">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1495983457036" expanded="true" signature="899:1052" ph="..." />
+            <marker date="1495983457036" expanded="true" signature="992:1020" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/home.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-703">
-          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="28" />
+        <state relative-caret-position="310">
+          <caret line="129" column="19" lean-forward="false" selection-start-line="129" selection-start-column="19" selection-end-line="129" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/about.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1364">
-          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="28" />
+        <state relative-caret-position="154">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/wondr.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wondr.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="771">
-          <caret line="49" column="59" lean-forward="false" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
-          <folding>
-            <marker date="1495981235716" expanded="true" signature="878:1031" ph="..." />
-            <marker date="1495981235716" expanded="true" signature="971:999" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="89" column="23" lean-forward="false" selection-start-line="231" selection-start-column="16" selection-end-line="231" selection-end-column="22" />
+        <state relative-caret-position="326">
+          <caret line="241" column="22" lean-forward="false" selection-start-line="241" selection-start-column="20" selection-end-line="241" selection-end-column="22" />
           <folding>
             <element signature="e#2807#2839#0" expanded="false" />
             <element signature="e#2854#2928#0" expanded="false" />
@@ -1087,35 +1231,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/offer.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="28" />
-          <folding>
-            <element signature="e#1524#1567#0" expanded="false" />
-            <element signature="e#1585#1627#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/style-tiles/_css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2259">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="182">
+          <caret line="172" column="17" lean-forward="false" selection-start-line="172" selection-start-column="12" selection-end-line="172" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/style-tiles/_css/style-tile-a.css">
+    <entry file="file://$PROJECT_DIR$/css/wondr.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="222">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/style-tiles/style-tile-a.html">
+    <entry file="file://$PROJECT_DIR$/css/contact.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="48" column="18" lean-forward="false" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+        <state relative-caret-position="352">
+          <caret line="40" column="35" lean-forward="false" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
           <folding />
         </state>
       </provider>

@@ -17,8 +17,8 @@ main a {
 
 @media (min-width: 1141px) {
     main {
-        -webkit-background-size: auto;
-        background-size: auto ;
+        -webkit-background-size: auto 100%;
+        background-size: auto 100%;
     }
 
     main a {

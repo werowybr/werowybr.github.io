@@ -2,9 +2,8 @@
 main.grid__wrapper {
     text-align: center;
     background: url('../img/pexels-photo.jpg') no-repeat center;
-    -webkit-background-size: auto 100%;
-    background-size: auto 100%;
     padding: 10px 0 10px;
+    background-size: 100%;
 }
 main .grid__row {
     margin: 20px 0;
@@ -28,7 +27,7 @@ main section > div {
 }
 
 #team-weronika {
-    background: url('../img/weronika.png') no-repeat center;
+    background: url('../img/weronika.jpg') no-repeat center;
     -webkit-background-size: 100%;
     background-size: 100%;
     position: relative;
@@ -42,7 +41,7 @@ main section > div {
 }
 
 #team-louise {
-    background: url('../img/louise.png') no-repeat center;
+    background: url('../img/louise.jpg') no-repeat center;
     -webkit-background-size: 100%;
     background-size: 100%;
     position: relative;

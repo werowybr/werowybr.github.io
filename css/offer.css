@@ -15,7 +15,7 @@ main {
 }
 
 .offer-image {
-    height: calc(50vh - 42px);
+    height: calc(50vh - 44px);
     -webkit-background-size: cover;
     background-size: cover;
 }
@@ -58,7 +58,7 @@ main {
 }
 
 #design {
-    background-image: url("../img/pexels-photo-196644.jpeg");
+    background-image: url("../img/pexels-photo-196644.jpg");
 }
 #development {
     background-image: url("../img/development foto .jpg");
@@ -100,6 +100,10 @@ main {
         transform: translate(0, -50%);
         text-align: center;
         font-size: 3rem;
+    }
+
+    #intro .offer-overlay-content {
+        line-height: 60px;
     }
 
     .offer-overlay-content-details {
