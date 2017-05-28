@@ -79,7 +79,7 @@ header img {
 }
 
 header #header-bars button {
-    background: url('../img/bars.png') center no-repeat;
+    background: url('../assets/img/bars.png') center no-repeat;
     outline: none;
     border: none;
     height: 40px;
@@ -100,7 +100,7 @@ header #header-bars {
 
 
     header #header-bars button {
-        background: url('../img/bars.png') center no-repeat;
+        background: url('../assets/img/bars.png') center no-repeat;
         position: absolute;
         top: 50%;
         left: 50%;

@@ -8,7 +8,7 @@ main {
 }
 #intro {
     height: calc(100vh - 84px);
-    background: url("../img/pexels-photo-300122-grayscale.jpg") left no-repeat;
+    background: url("../assets/img/pexels-photo-300122-grayscale.jpg") left no-repeat;
     background-size: auto 100%;
     padding: 0;
     position: relative;
@@ -58,10 +58,10 @@ main {
 }
 
 #design {
-    background-image: url("../img/pexels-photo-196644.jpg");
+    background-image: url("../assets/img/pexels-photo-196644.jpg");
 }
 #development {
-    background-image: url("../img/development foto .jpg");
+    background-image: url("../assets/img/development foto .jpg");
 }
 
 .offer-overlay-content-details, .offer-content-text {

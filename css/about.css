@@ -1,7 +1,7 @@
 
 main.grid__wrapper {
     text-align: center;
-    background: url('../img/pexels-photo.jpg') no-repeat center;
+    background: url('../assets/img/pexels-photo.jpg') no-repeat center;
     padding: 10px 0 10px;
     background-size: 100%;
 }
@@ -27,21 +27,21 @@ main section > div {
 }
 
 #team-weronika {
-    background: url('../img/weronika.jpg') no-repeat center;
+    background: url('../assets/img/weronika.jpg') no-repeat center;
     -webkit-background-size: 100%;
     background-size: 100%;
     position: relative;
 }
 
 #team-jente {
-    background: url('../img/20170204_151240.jpg') no-repeat center;
+    background: url('../assets/img/20170204_151240.jpg') no-repeat center;
     -webkit-background-size: 100%;
     background-size: 100%;
     position: relative;
 }
 
 #team-louise {
-    background: url('../img/louise.jpg') no-repeat center;
+    background: url('../assets/img/louise.jpg') no-repeat center;
     -webkit-background-size: 100%;
     background-size: 100%;
     position: relative;

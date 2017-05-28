@@ -12,7 +12,6 @@ main, main section {
     padding: 0;
     margin: 0;
 }
-
 .portfolio-image a {
     padding: 0;
     margin: 0;
@@ -24,23 +23,22 @@ main, main section {
     background-size: 250%;
     transition: 0.2s all;
 }
-
 .portfolio-image a:hover {
     background-size: 300%;
 }
 
-#wondr{background-image: url('../img/portfolio/wondr.jpg')}
-#playinglynch{background-image: url('../img/portfolio/playinglynch.jpg')}
-#tomerlerner{background-image: url('../img/portfolio/tomerlerner.jpg')}
-#rimmel{background-image: url('../img/portfolio/rimmel.jpg')}
-#creativewallonia{background-image: url('../img/portfolio/creativewallonia.jpg')}
-#linealight{background-image: url('../img/portfolio/linealight.jpg')}
-#tattoos{background-image: url('../img/portfolio/tattoos.jpg')}
-#knittingwool{background-image: url('../img/portfolio/knittingwool.jpg')}
-#xofestival{background-image: url('../img/portfolio/xofestival.jpg')}
-#timepot{background-image: url('../img/portfolio/timepot.jpg')}
-#colortheory{background-image: url('../img/portfolio/colortheory.jpg')}
-#kitchensubereats{background-image: url('../img/portfolio/kitchensubereats.jpg')}
+#wondr{background-image: url('../assets/img/portfolio/wondr.jpg')}
+#playinglynch{background-image: url('../assets/img/portfolio/playinglynch.jpg')}
+#tomerlerner{background-image: url('../assets/img/portfolio/tomerlerner.jpg')}
+#rimmel{background-image: url('../assets/img/portfolio/rimmel.jpg')}
+#creativewallonia{background-image: url('../assets/img/portfolio/creativewallonia.jpg')}
+#linealight{background-image: url('../assets/img/portfolio/linealight.jpg')}
+#tattoos{background-image: url('../assets/img/portfolio/tattoos.jpg')}
+#knittingwool{background-image: url('../assets/img/portfolio/knittingwool.jpg')}
+#xofestival{background-image: url('../assets/img/portfolio/xofestival.jpg')}
+#timepot{background-image: url('../assets/img/portfolio/timepot.jpg')}
+#colortheory{background-image: url('../assets/img/portfolio/colortheory.jpg')}
+#kitchensubereats{background-image: url('../assets/img/portfolio/kitchensubereats.jpg')}
 
 @media (min-width: 1141px) {
     .portfolio-image {

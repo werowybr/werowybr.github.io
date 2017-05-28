@@ -1,6 +1,6 @@
 main {
     height: calc(100vh - 84px);
-    background: #ebebeb url('../img/portfolio/wondr.jpg') center no-repeat;
+    background: #ebebeb url('../assets/img/portfolio/wondr.jpg') center no-repeat;
     -webkit-background-size: auto 50%;
     background-size: auto 50%;
 }

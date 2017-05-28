@@ -28,7 +28,7 @@ main {
 }
 
 #intro {
-    background: url("../img/pexels-photo-grayscale.jpg") 0 25% no-repeat;
+    background: url("../assets/img/pexels-photo-grayscale.jpg") 0 25% no-repeat;
 }
 
 .home-image {
@@ -68,10 +68,10 @@ main {
     padding-top: 10px;
 }
 #impress {
-    background-image: url("../img/pexels-photo-300122.jpg");
+    background-image: url("../assets/img/pexels-photo-300122.jpg");
 }
 #questions {
-    background-image: url("../img/pexels-photo-164531-color.jpg");
+    background-image: url("../assets/img/pexels-photo-164531-color.jpg");
 }
 
 @media (min-width: 1141px) {
@@ -127,16 +127,16 @@ main {
         color: #8dc53e;
     }
     #impress {
-        background-image: url("../img/pexels-photo-300122-grayscale.jpg");
+        background-image: url("../assets/img/pexels-photo-300122-grayscale.jpg");
     }
     #impress-color {
-        background-image: url("../img/pexels-photo-300122.jpg");
+        background-image: url("../assets/img/pexels-photo-300122.jpg");
     }
     #questions {
-        background-image: url("../img/pexels-photo-164531.jpg");
+        background-image: url("../assets/img/pexels-photo-164531.jpg");
     }
     #questions-color {
-        background-image: url("../img/pexels-photo-164531-color.jpg");
+        background-image: url("../assets/img/pexels-photo-164531-color.jpg");
     }
 }
 

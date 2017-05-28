@@ -37,8 +37,8 @@ input[type=submit] {
 @media (min-width: 1141px) {
     main {
         text-align: left;
-        background: url('../img/pexels-photo-164531-white.jpg') no-repeat center;
-        background-size: auto 100%;
+        background: url('../assets/img/pexels-photo-164531-white.jpg') no-repeat center;
+        background-size: 100%;
     }
 
     main .contact-content > div {
